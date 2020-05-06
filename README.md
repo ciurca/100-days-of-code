@@ -8,9 +8,13 @@
 * [Resources](resources.md)
 
 ##Plan
+
 ####What am I coding
+
 I'm mainly coding Python, using [PracticePython.org](https://practicepython.org), uploading my solutions to [this repository](https://github.com/ciurca/PracticePython). I may also use [Code Wars](https://codewars.com). I'm a beginner so that's why I'm doing these sorts of exercises right now.
+
 ####Active Repositories
+
 Repositories for things I'm coding during the #100DaysOfCode:
 * [Practice Python exercises](https://github.com/ciurca/PracticePython)
 
