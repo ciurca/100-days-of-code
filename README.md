@@ -1,6 +1,8 @@
 # I've joined the #100DaysOfCode Challenge
 
-<figure><embed src="https://wakatime.com/share/@576d6cd5-e2d2-4808-bbb3-fbff29e291ae/31ad8324-ef40-498b-98cc-3c2347b2ca89.svg"></embed></figure>
+<figure>
+<embed src="https://wakatime.com/share/@576d6cd5-e2d2-4808-bbb3-fbff29e291ae/31ad8324-ef40-498b-98cc-3c2347b2ca89.svg"></embed>
+</figure>
 
 ## Contents
 
