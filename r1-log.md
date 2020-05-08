@@ -9,3 +9,7 @@ Did 2 exercises from [Practice Python](https://practicepython.org), you can chec
 
 ### R1D2
 Did 5 exercises from [Practice Python](https://practicepython.org), looking good! Excited!
+
+### R1D3
+
+Did 2 exercises from [Practice Python](https://practicepython.org), almost did three, but the third one is still bugging me! I'll probably solve it later today. Good stuff!
