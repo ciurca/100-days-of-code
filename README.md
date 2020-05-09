@@ -22,7 +22,7 @@ I'm mainly coding Python, using [PracticePython.org](https://practicepython.org)
 
 Repositories for things I'm coding/I've coded during the #100DaysOfCode:
 * [Practice Python exercises](https://github.com/ciurca/PracticePython)
-* [Matt's Workout](https://github.com/ciurca/ciurca.github.io) (or go directly to the [webisite](ciurca.github.com))
+* [Matt's Workout](https://github.com/ciurca/ciurca.github.io) (or go directly to the [website](https://ciurca.github.com))
 
 #### Am I on track?
 
