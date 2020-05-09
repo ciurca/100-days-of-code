@@ -13,3 +13,8 @@ Did 5 exercises from [Practice Python](https://practicepython.org), looking good
 ### R1D3
 
 Did 2 exercises from [Practice Python](https://practicepython.org), almost did three, but the third one is still bugging me! I'll probably solve it later today. Good stuff!
+
+### R1D4
+
+Made a website that has all the workouts/exercises from [@mattdavella](@witter.com/mattdavella)'s workout video. Check it out [here](http://ciurca.github.io).
+(not: the site is pretty buggy on computers, but it works well on mobile)
