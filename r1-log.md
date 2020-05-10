@@ -18,3 +18,7 @@ Did 2 exercises from [Practice Python](https://practicepython.org), almost did t
 
 Made a website that has all the workouts/exercises from [@mattdavella](@witter.com/mattdavella)'s workout video. Check it out [here](http://ciurca.github.io).
 (not: the site is pretty buggy on computers, but it works well on mobile)
+
+### R1D5
+
+Made a Python Script that sends whatsapp messages when a certain user types a message into a group. I got it after [this](https://www.geeksforgeeks.org/whatsapp-using-python/) tutorial, and edited it a bit. It was fun.
