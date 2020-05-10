@@ -21,4 +21,4 @@ Made a website that has all the workouts/exercises from [@mattdavella](@witter.c
 
 ### R1D5
 
-Made a Python Script that sends whatsapp messages when a certain user types a message into a group. I got it after [this](https://www.geeksforgeeks.org/whatsapp-using-python/) tutorial, and edited it a bit. It was fun.
+Made a Python Script that sends Whatsapp messages when a certain user types a message into a group. I got it after [this](https://www.geeksforgeeks.org/whatsapp-using-python/) tutorial, and edited it a bit. It was fun.
