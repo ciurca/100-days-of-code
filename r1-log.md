@@ -26,3 +26,7 @@ Made a Python Script that sends Whatsapp messages when a certain user types a me
 ### R1D6
 
 Made a Python Script that checks Facebook, Instagram and Twitter whether or not I have new notifications.
+
+### R1D7
+
+Made a simple Python program that sends me a simple Windows notification every 30 minutes minutes telling me to stretch and when clicked, it opens up a website with stretching exercises.
