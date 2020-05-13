@@ -30,3 +30,7 @@ Made a Python Script that checks Facebook, Instagram and Twitter whether or not 
 ### R1D7
 
 Made a simple Python program that sends me a simple Windows notification every 30 minutes minutes telling me to stretch and when clicked, it opens up a website with stretching exercises.
+
+### R1D8
+
+Did some exercises from [Codewars](https://codewars.com). (python, of course)
