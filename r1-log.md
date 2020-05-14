@@ -34,3 +34,7 @@ Made a simple Python program that sends me a simple Windows notification every 3
 ### R1D8
 
 Did some exercises from [Codewars](https://codewars.com). (python, of course)
+
+### R1D9
+
+Did some more Python exercises from [Codewars](https://codewars.com).
