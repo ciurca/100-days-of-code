@@ -38,3 +38,7 @@ Did some exercises from [Codewars](https://codewars.com). (python, of course)
 ### R1D9
 
 Did some more Python exercises from [Codewars](https://codewars.com).
+
+### R1D10
+
+Tried to make a Twilio Appointment bot, but having issues so far, will probably fix later.
