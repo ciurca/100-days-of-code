@@ -18,11 +18,14 @@ Is the chart showing up? If not, please [message me](https://twitter.com/message
 
 I'm mainly coding Python, using [PracticePython.org](https://practicepython.org), uploading my solutions to [this repository](https://github.com/ciurca/PracticePython). I may also use [Code Wars](https://codewars.com). I'm a beginner so that's why I'm doing these sorts of exercises right now.
 
-#### Active Repositories
+#### Projects
 
 Repositories for things I'm coding/I've coded during the #100DaysOfCode:
 * [Practice Python exercises](https://github.com/ciurca/PracticePython)
 * [Matt's Workout](https://github.com/ciurca/ciurca.github.io) (or go directly to the [website](https://ciurca.github.io))
+* [StretchUp](https://github.com/ciurca/stretchup)
+* [Notifications in CMD](https://github.com/ciurca/notifications)(not as exciting as it sounds)
+* Whatsapp Bot that automatically replies when a certain contact sends a message (repo is private, DM me)
 
 #### Am I on track?
 
