@@ -46,3 +46,7 @@ Tried to make a Twilio Appointment bot, but having issues so far, will probably 
 ### R1D11
 
 Did two exercises from [Codewars](https://codewars.com).
+
+### R1D12
+
+Did one exercise from [Codewars](https://codewars.com). Many more to come.
