@@ -50,3 +50,7 @@ Did two exercises from [Codewars](https://codewars.com).
 ### R1D12
 
 Did one exercise from [Codewars](https://codewars.com). Many more to come.
+
+### R1D13
+
+Did some [Codewars](https://codewars.com) today, python, obviously.
