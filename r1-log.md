@@ -54,3 +54,7 @@ Did one exercise from [Codewars](https://codewars.com). Many more to come.
 ### R1D13
 
 Did some [Codewars](https://codewars.com) today, python, obviously.
+
+### R1D14
+
+Some more [Codewars](https://codewars.com) today. Do I have to say it? 🐍 
