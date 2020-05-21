@@ -58,3 +58,11 @@ Did some [Codewars](https://codewars.com) today, python, obviously.
 ### R1D14
 
 Some more [Codewars](https://codewars.com) today. Do I have to say it? 🐍 
+
+### R1D15
+
+[Codewars](https://codewars.com) today. 🐍
+
+### R1D16
+
+Did some Python exercises today from [Codewars](https://codewars.com), also refactored some of my old solutions.
