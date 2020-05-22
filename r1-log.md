@@ -66,3 +66,7 @@ Some more [Codewars](https://codewars.com) today. Do I have to say it? 🐍
 ### R1D16
 
 Did some Python exercises today from [Codewars](https://codewars.com), also refactored some of my old solutions.
+
+### R1D17
+
+Resolved one Python exercise from [Codewars](https://codewars.com).
