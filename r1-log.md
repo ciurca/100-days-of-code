@@ -70,3 +70,7 @@ Did some Python exercises today from [Codewars](https://codewars.com), also refa
 ### R1D17
 
 Resolved one Python exercise from [Codewars](https://codewars.com).
+
+### R1D18
+
+Did 2 Python exercises from [Codewars](https://codewars.com).
