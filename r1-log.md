@@ -78,3 +78,7 @@ Did 2 Python exercises from [Codewars](https://codewars.com).
 ### R1D19
 
 Some exercises from [Codewars](https://codewars.com) today.
+
+### R1D20
+
+Mixed it up today, did Python and JavaScript exercises from [Codewars](https://codewars.com).
