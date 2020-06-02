@@ -82,3 +82,34 @@ Some exercises from [Codewars](https://codewars.com) today.
 ### R1D20
 
 Mixed it up today, did Python and JavaScript exercises from [Codewars](https://codewars.com).
+
+### R1D21
+
+Did all the basic #JavaScript exercises from #W3Schools. 
+I couldn't have done this without exercising #Python for some time, knowing the basic concepts of programming. The only problem was JS syntax, but I caught on pretty quickly.
+
+![Image showing all the exercises](https://pbs.twimg.com/media/EY9Dj8qWoAUpTE6?format=png&name=small)
+
+### R1D22
+
+Played a bit more with JavaScript today, trying to figure out how to edit a PDF template with the responses from a user in HTML.
+
+### R1D23
+
+Did some [Codewars](https://codewars.com) today, in Python.
+
+### R1D24
+
+Solved one exercise from [Codewars](https://codewars.com) today, Python, of course.
+
+### R1D25
+
+Studied a bit from the Think Python book. Also made a website that returns the COVID-19  cases by county (Romania). Check it out here : [ROVIDCounty](https://rovidcounty.netlify.app). Used javascript  and Bootstrap. It's very basic, but I had a lot of fun figuring stuff out.
+
+### R1D26
+
+Added a map generator to [ROVIDCounty](https://rovidcounty.netlify.app), so you can visualize the cases by county better. Check it out! Used Leaflet.js.
+
+### R1D27
+
+Added a chart generator to [ROVIDCounty](https://rovidcounty.netlify.app).
