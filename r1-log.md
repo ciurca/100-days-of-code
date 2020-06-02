@@ -113,3 +113,7 @@ Added a map generator to [ROVIDCounty](https://rovidcounty.netlify.app), so you 
 ### R1D27
 
 Added a chart generator to [ROVIDCounty](https://rovidcounty.netlify.app).
+
+### R1D28
+
+Played a bit with VueJs today, might try and do what I did with [ROVIDCounty](https://rovidcounty.netlify.app), but in Vue.
